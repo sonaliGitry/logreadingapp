@@ -1,0 +1,1 @@
+java -jar logreadingapp-0.0.1-SNAPSHOT.jar C:\logreadingapp\logreadingapp\src\main\resources\logFile.txt
